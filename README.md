@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:38BDF8,100:0EA5E9&height=160&section=header&text=Muhammad%20Al-Muzahid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Candidate%20%7C%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=16" />
-</p>
-
-<h1 align="center">Muhammad Al-Muzahid</h1>
-
-<p align="center">
-  <b>Software Engineer Candidate · ML Researcher · Competitive Programmer</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BAE6FD,50:38BDF8,100:0EA5E9&height=155&section=header&text=Muhammad%20Al-Muzahid&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Software%20Engineer%20Candidate%20%7C%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=15" />
 </p>
 
 <p align="center">
@@ -31,9 +25,9 @@
 
 ## About Me
 
-I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at BUET.
+I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at Bangladesh University of Engineering and Technology.
 
-My work and interests connect software engineering, competitive programming, machine learning, and research. I enjoy solving algorithmic problems, building useful tools, and working on research-driven projects in machine learning, imbalanced classification, active learning, computer vision, and applied AI.
+My interests connect software engineering, competitive programming, machine learning, and research. I enjoy solving algorithmic problems, building useful tools, and working on research-driven projects in machine learning, imbalanced classification, active learning, computer vision, and applied AI.
 
 - Former Lecturer, Department of CSE, Trust University, Barishal
 - 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist
@@ -49,7 +43,7 @@ My work and interests connect software engineering, competitive programming, mac
 - Improving full-stack development and backend fundamentals
 - Practicing algorithms, data structures, and problem solving
 - Exploring machine learning research and AI-based classification problems
-- Working toward stronger research and industry-ready technical skills
+- Strengthening research, development, and industry-ready technical skills
 
 ---
 
@@ -88,7 +82,7 @@ Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Cl
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,dart,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,dart" />
 </p>
 
 ### Web and App Development
@@ -185,5 +179,5 @@ Jan 2019 – Dec 2024
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:7DD3FC&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:BAE6FD&height=95&section=footer" />
 </p>
