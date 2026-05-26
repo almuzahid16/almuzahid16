@@ -1,131 +1,181 @@
+<h1 align="center">Muhammad Al-Muzahid</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=190&section=header&text=Muhammad%20Al-Muzahid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Student%20%7C%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=16" />
+  <b>Software Engineer Candidate · ML Researcher · Competitive Programmer</b>
 </p>
 
-<h1 align="center">Assalamu Alaikum, I'm Muhammad Al-Muzahid 👋</h1>
-
-<h3 align="center">
-Master’s Student in ICT @ BUET | Researcher | Ex-Lecturer | ICPC Regionalist | Competitive Programmer
-</h3>
+<p align="center">
+  M.Sc. Engg. in ICT at BUET · CSE Graduate · Former Lecturer · 3x ICPC Asia Dhaka Regionalist
+</p>
 
 <p align="center">
   <a href="https://github.com/almuzahid16">
-    <img src="https://img.shields.io/badge/GitHub-almuzahid16-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-almuzahid16-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/almuzahid/">
-    <img src="https://img.shields.io/badge/LinkedIn-almuzahid-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/muhammadalmuzahid/">
-    <img src="https://img.shields.io/badge/Facebook-Muhammad%20Al--Muzahid-1877F2?style=for-the-badge&logo=facebook" />
+    <img src="https://img.shields.io/badge/LinkedIn-almuzahid-0A66C2?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://codeforces.com/profile/brainsoft">
-    <img src="https://img.shields.io/badge/Codeforces-brainsoft-1F8ACB?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-brainsoft-1F8ACB?style=flat-square&logo=codeforces" />
+  </a>
+  <a href="mailto:almuzahid16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-almuzahid16%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a CSE graduate and currently pursuing my Master’s in ICT at BUET. I enjoy solving problems, building useful tools, and exploring research-driven technology.
+I am a Computer Science graduate from Patuakhali Science and Technology University and currently pursuing M.Sc. Engg. in Information and Communication Technology at BUET.
 
-My main interests are competitive programming, software development, research, data-driven systems, and educational technology. I like turning ideas into practical projects that people can actually use.
+My work and interests connect software engineering, competitive programming, machine learning, and research. I enjoy solving algorithmic problems, building useful tools, and working on research-driven projects in machine learning, imbalanced classification, active learning, computer vision, and applied AI.
 
-- 🎓 Master’s Student in ICT at BUET  
-- 🧑‍🏫 Former Lecturer  
-- 🏆 ICPC Regionalist 2023, 2024 and 2025  
-- 💻 Competitive Programmer  
-- 🔭 Currently building practical portfolio projects  
-- 🌱 Learning and improving every day  
-- ⚡ Motto: Build, learn, improve, repeat  
+- Former Lecturer, Department of CSE, Trust University, Barishal
+- 3-time ICPC Asia Dhaka Regionalist and NCPC 2023 Finalist
+- 2600+ solved programming problems across online judges
+- Published research in IEEE Xplore
+- Interested in software engineering, AI, ML, deep learning, cryptography, and data-driven systems
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-### CF Practice Ladder Builder  
-A modern Codeforces practice ladder builder that compares a user's solved problems with an expert handle and recommends unsolved rated problems.
-
-- Live: https://cf-practice-ladder.vercel.app  
-- Repository: https://github.com/almuzahid16/cf-practice-ladder  
-- Tech: Next.js, React, CSS, Codeforces Public API, Vercel  
-
-### Competitive Programming Repository  
-A collection of competitive programming solutions, algorithms, data structures, and useful code library resources.
-
-- Repository: https://github.com/almuzahid16/CompetitiveProgrammingRepository  
-
-### Brainsoft Competitive Programming Archive  
-A comprehensive archive of algorithms, data structures, and problem solutions curated during my programming journey.
-
-- Repository: https://github.com/almuzahid16/Brainsoft-Competitive-Programming-Archive  
+- Building practical software engineering portfolio projects
+- Improving full-stack development and backend fundamentals
+- Practicing algorithms, data structures, and problem solving
+- Exploring machine learning research and AI-based classification problems
+- Working toward stronger research and industry-ready technical skills
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Project
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,vercel" />
+### CF Practice Ladder Builder
+
+A modern Codeforces practice ladder builder that compares a user's solved problems with an expert Codeforces handle and recommends unsolved rated problems for targeted practice.
+
+- Live Demo: https://cf-practice-ladder.vercel.app
+- Repository: https://github.com/almuzahid16/cf-practice-ladder
+- Tech Stack: Next.js, React, CSS, Codeforces Public API, Vercel
+
+---
+
+## Research and Academic Work
+
+### DASS: Density-Adaptive Synthetic Sampling for Improved Imbalanced Classification
+
+Published in IEEE Xplore at the 6th International Conference on Sustainable Technologies for Industry 5.0.
+
+- DOI: 10.1109/STI64222.2024.10951098
+- Area: Machine Learning, Imbalanced Classification, Synthetic Sampling
+
+### M.Sc. Thesis
+
+Attention-Driven Hierarchical Active Learning Framework for Robust Imbalanced Classification.
+
+- Area: Deep Learning, Active Learning, Imbalanced Classification, Attention Mechanisms
+- Institution: Patuakhali Science and Technology University
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php,dart,sql" />
 </p>
 
+### Web and App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flutter" />
+</p>
+
+### Databases and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,latex,vscode" />
+</p>
+
+### Core Areas
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Competitive Programming
+- Machine Learning and Deep Learning
+- Cryptography and Security
+- Research-oriented Software Development
+
 ---
 
-## 📌 Areas of Interest
+## Competitive Programming
 
-- Competitive Programming  
-- Algorithms and Data Structures  
-- Full-Stack Web Development  
-- Research and Academic Writing  
-- Data Analysis and Automation  
-- Educational Technology  
-- Problem Solving and System Design  
+- Codeforces: Pupil, max rating 1376
+- CodeChef: 3 Star, max rating 1745
+- AtCoder: rating 456
+- BeeCrowd: Top 1%
+- Total solved: 2600+ problems across multiple online judges
+
+### Selected Achievements
+
+- ICPC Asia Dhaka Regionalist 2023, 2024, 2025
+- NCPC 2023 Finalist
+- 3rd place, PSTU Independence Day Programming Contest 2024
+- National Undergraduate Mathematics Olympiad awardee
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=almuzahid16&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahid16&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=almuzahid16&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=almuzahid16&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahid16&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuzahid16&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Competitive Programming
+## Education
 
-<p align="center">
-  <a href="https://codeforces.com/profile/brainsoft">
-    <img src="https://img.shields.io/badge/Codeforces-brainsoft-blue?style=for-the-badge&logo=codeforces" />
-  </a>
-</p>
+**Bangladesh University of Engineering and Technology**  
+M.Sc. Engg. in Information and Communication Technology  
+May 2025 – Present
 
-I enjoy solving algorithmic problems and improving my problem-solving ability through regular practice, contest participation, and code review.
+**Patuakhali Science and Technology University**  
+M.Sc. in Computer Science and Information Technology  
+Jan 2025 – Apr 2026
+
+**Patuakhali Science and Technology University**  
+B.Sc. Engg. in Computer Science and Engineering  
+Jan 2019 – Dec 2024
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-<p align="left">
+<p>
   <a href="https://github.com/almuzahid16">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/almuzahid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.facebook.com/muhammadalmuzahid/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
-  <a href="https://codeforces.com/profile/brainsoft">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  <a href="mailto:almuzahid16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=110&section=footer" />
+  <i>Building, learning, solving, and improving one step at a time.</i>
 </p>
