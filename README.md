@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:38BDF8,100:0EA5E9&height=160&section=header&text=Muhammad%20Al-Muzahid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Candidate%20%7C%20ML%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=16" />
+</p>
+
 <h1 align="center">Muhammad Al-Muzahid</h1>
 
 <p align="center">
@@ -178,4 +182,8 @@ Jan 2019 – Dec 2024
 
 <p align="center">
   <i>Building, learning, solving, and improving one step at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:7DD3FC&height=110&section=footer" />
 </p>
