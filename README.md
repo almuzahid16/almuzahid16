@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/almuzahid16">
-    <img src="https://img.shields.io/badge/GitHub-almuzahid16-181717?style=flat-square&logo=github" />
+  <a href="https://github.com/almuzahidseyam">
+    <img src="https://img.shields.io/badge/GitHub-almuzahidseyam-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/almuzahid/">
     <img src="https://img.shields.io/badge/LinkedIn-almuzahid-0A66C2?style=flat-square&logo=linkedin" />
